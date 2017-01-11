@@ -1,0 +1,18 @@
+{
+    "name": "idfer/TDDhomework1",
+    "require-dev": {
+        "phpunit/phpunit": "^5.7"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "idfer",
+            "email": "idfer0912@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
